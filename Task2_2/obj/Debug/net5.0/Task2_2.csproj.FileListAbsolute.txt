@@ -1,0 +1,16 @@
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.csprojAssemblyReference.cache
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.AssemblyInfoInputs.cache
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.AssemblyInfo.cs
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.csproj.CoreCompileInputs.cache
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.exe
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.deps.json
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.runtimeconfig.json
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.runtimeconfig.dev.json
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.dll
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\ref\Task2_2.dll
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\bin\Debug\net5.0\Task2_2.pdb
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.dll
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\ref\Task2_2.dll
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.pdb
+F:\Projects\CiSharpProjects\Task2_2\Task2_2\obj\Debug\net5.0\Task2_2.genruntimeconfig.cache
